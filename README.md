@@ -183,8 +183,3 @@ Terima kasih bila ingin berkontribusi. Silakan buka issue untuk bug/fitur, dan k
 
 ## Lisensi
 Teks LICENSE (Apache License 2.0) ditambahkan ke repositori. Proyek dilisensikan di bawah Apache License 2.0.
-
----
-
-## Lainnya
-Jika Anda ingin saya menambahkan contoh screenshot, badge CI (GitHub Actions) atau menyesuaikan README dengan instruksi deploy spesifik (mis. membangun artefak untuk electron atau desktop), beri tahu saya dan saya akan memperbarui README.
