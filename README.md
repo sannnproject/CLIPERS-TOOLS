@@ -179,7 +179,3 @@ Catatan: repository menggunakan Vite + TypeScript, jadi environment yang menduku
 ## Kontribusi
 Terima kasih bila ingin berkontribusi. Silakan buka issue untuk bug/fitur, dan kirim PR dengan perubahan kecil dulu (fix/feature). Ikuti gaya TypeScript yang ada — project sudah mengandung eslint & prettier configs.
 
----
-
-## Lisensi
-Teks LICENSE (Apache License 2.0) ditambahkan ke repositori. Proyek dilisensikan di bawah Apache License 2.0.
