@@ -1,6 +1,6 @@
 # CLIPERS-TOOLS
 
-![Languages](https://img.shields.io/github/languages/top/sannnproject/CLIPERS-TOOLS?logo=typescript) ![Repo size](https://img.shields.io/github/repo-size/sannnproject/CLIPERS-TOOLS) ![Last commit](https://img.shields.io/github/last-commit/sannnproject/CLIPERS-TOOLS) ![Bun](https://img.shields.io/badge/bun-%23000000?style=flat&logo=bun) ![Vite](https://img.shields.io/badge/Vite-3DDC84?logo=vite) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![Languages](https://img.shields.io/github/languages/top/sannnproject/CLIPERS-TOOLS?logo=typescript) ![Repo size](https://img.shields.io/github/repo-size/sannnproject/CLIPERS-TOOLS) ![Last commit](https://img.shields.io/github/last-commit/sannnproject/CLIPERS-TOOLS) ![Bun](https://img.shields.io/badge/bun-%23000000?style=flat&logo=bun) ![Vite](https://img.shields.io/badge/Vite-3DDC84?logo=vite) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript) ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 Deskripsi singkat: alat untuk membuat potongan (clips) video secara otomatis dan berjalan secara lokal pada mesin pengguna. Aplikasi memproses video di sisi klien menggunakan ffmpeg.wasm untuk menjaga video tetap berada di perangkat (tidak diunggah ke server).
 
@@ -182,8 +182,9 @@ Terima kasih bila ingin berkontribusi. Silakan buka issue untuk bug/fitur, dan k
 ---
 
 ## Lisensi
-Tidak ada file LICENSE di repositori saat ini — tambahkan file LICENSE jika Anda ingin menandai lisensi proyek.
+Teks LICENSE (Apache License 2.0) ditambahkan ke repositori. Proyek dilisensikan di bawah Apache License 2.0.
 
 ---
 
+## Lainnya
 Jika Anda ingin saya menambahkan contoh screenshot, badge CI (GitHub Actions) atau menyesuaikan README dengan instruksi deploy spesifik (mis. membangun artefak untuk electron atau desktop), beri tahu saya dan saya akan memperbarui README.
